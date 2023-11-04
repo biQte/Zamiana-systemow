@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zamiana systemow", "Zamiana systemow\Zamiana systemow.csproj", "{6EFEA91B-FCAC-4444-AD99-7DB943C8262A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFEA91B-FCAC-4444-AD99-7DB943C8262A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFEA91B-FCAC-4444-AD99-7DB943C8262A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFEA91B-FCAC-4444-AD99-7DB943C8262A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFEA91B-FCAC-4444-AD99-7DB943C8262A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086BFAA6-AE6B-4917-8E72-45C9C74CA1D8}
+	EndGlobalSection
+EndGlobal
